@@ -54,6 +54,12 @@
     "numbers": "cpp",
     "optional": "cpp",
     "span": "cpp",
-    "text_encoding": "cpp"
-  }
+    "text_encoding": "cpp",
+    "ranges": "cpp",
+    "thread": "cpp",
+    "chrono": "cpp",
+    "variant": "cpp"
+  },
+  "C_Cpp.default.cppStandard": "c++23",
+  "C_Cpp.default.compilerPath": "/usr/bin/g++"
 }
